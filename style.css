@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+        background-image: linear-gradient(to right, rgb(103, 216, 236), rgb(37, 230, 140), rgb(224, 226, 228));
+}
+
+h1 {
+    text-align: center;
+}
+
+iframe {
+    margin: 30px;
+}
+
+header {
+    padding: 30px;
+
+    border-radius: 10px;
+}
